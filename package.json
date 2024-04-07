@@ -8,14 +8,14 @@
     "url": "https://github.com/liady/webpack-node-externals.git"
   },
   "dependencies": {
-    "date-fns": "2.21.3"
+    "date-fns": "3.6.0"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.5.3",
-    "mock-fs": "^4.4.2",
-    "ncp": "^2.0.0",
-    "webpack": "^1.13.1"
+    "chai": "5.1.0",
+    "mocha": "10.4.0",
+    "mock-fs": "5.2.0",
+    "ncp": "2.0.0",
+    "webpack": "5.91.0"
   },
   "scripts": {
     "unit": "mocha --colors ./test/*.spec.js",
